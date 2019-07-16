@@ -1,0 +1,50 @@
+<!doctype html >
+<html>
+
+<head>
+<link rel="stylesheet"
+href="styles/css.css">
+</head>
+
+<body>
+<div>
+<h1>Hello world</h1>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras elementum. Etiam egestas wisi a erat. </p>
+<img class="velky" src="obrazky/pes.jpg"/>
+<img class="maly" src="obrazky/pes.jpg"/>
+<img id="velky" src="obrazky/pes.jpg"/>
+<img id="maly" src="obrazky/pes.jpg"/>
+</div id="jedna">
+<p class="jedna">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras elementum. Etiam egestas wisi a erat.</p>
+<p class="dva">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras elementum. Etiam egestas wisi a erat.</p>
+<ul>
+    <li>první položka</li>
+    <li>druhá položka</li>
+</ul>
+
+<ol>
+    <li>první položka</li>
+    <li>druhá položka</li>
+</ol>
+
+<ul class= "flex-container">
+  <li class="flex-item">1</li>
+  <li class="flex-item flexJedna">2 ale jsem jedna</li>
+  <li class="flex-item">3</li>
+  <li class="flex-item flexDva">4444 ale jsem dva</li>
+  <li class="flex-item">5</li>
+  <li class="flex-item">6</li>
+</ul>
+
+    <ul id="prvni">
+        <li>consectetuer adipiscing elit</li>
+    </ul>
+
+    <ul id="druhy">
+            <li>consectetuer adipiscing elit</li>
+        </ul>
+</body>
+
+
+
+</html>
