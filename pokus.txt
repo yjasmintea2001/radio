@@ -8,7 +8,7 @@ href="styles/css.css">
 
 <body>
 <div>
-<h1>Hello world</h1>
+<h1>Hello world!</h1>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras elementum. Etiam egestas wisi a erat. </p>
 <img class="velky" src="obrazky/pes.jpg"/>
 <img class="maly" src="obrazky/pes.jpg"/>
